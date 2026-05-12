@@ -6,6 +6,8 @@
 
 ## Metadata
 
+* `Tyee Test and Upper Sustut Fence_ Steelhead Time Series.xlsx` - Provided by Kenji Miyazaki by email to S. Peacock on May 5, 2026. Excel file has two sheets: `Tyee Test Time Series` (1955-2025) and `Sustut Fence Time Series` (2002-2025).
+
 * `Columbia_Steelhead_OBMEP.csv` - Data on steelhead abundance in the Canadian portion of the Columbia are published by the [Okanogan Basin Monitoring and Evaluation Program (OBMEP)](https://www.okanoganmonitoring.org/). Reports on steelhead spawning abundance and distirbution are [published each year](https://www.okanoganmonitoring.org/Reports/ViewReportsForType/2) and include estimates of natural-origin and hatchery spawners at Zosel Dam and upstream locations in the Canadian portion of the basin.
 
 Note that we are moving to include all spawners (natural-origin + hatchery) in our estimated spawner abunndance indicator following guidance from [Withler et al. (2018)](https://waves-vagues.dfo-mpo.gc.ca/Library/40702285.pdf).
