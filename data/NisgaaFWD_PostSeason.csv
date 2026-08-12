@@ -1,0 +1,10 @@
+﻿region,species_name,species_qualified,cuid,cu_name_pse,pointid,streamid,stream_name_pse,indicator,latitude,longitude,year,stream_observed_count,stream_survey_method,stream_survey_quality,source_id
+Nass,Steelhead,SH,480,Nass Summer,2390,9750,MEZIADIN RIVER,Y,56.0365046,-129.18517,2021,14,Fence Count,High,Nisgaa_20251202
+Nass,Steelhead,SH,480,Nass Summer,2390,9750,MEZIADIN RIVER,Y,56.0365046,-129.18517,2022,10,Fence Count,High,Nisgaa_20251202
+Nass,Steelhead,SH,480,Nass Summer,2390,9750,MEZIADIN RIVER,Y,56.0365046,-129.18517,2023,5,Fence Count,High,Nisgaa_20251202
+Nass,Steelhead,SH,480,Nass Summer,2390,9750,MEZIADIN RIVER,Y,56.0365046,-129.18517,2024,11,Fence Count,High,Nisgaa_20251202
+Nass,Steelhead,SH,480,Nass Summer,2390,9750,MEZIADIN RIVER,Y,56.0365046,-129.18517,2025,2,Fence Count,High,Nisgaa_20251202
+Nass,Steelhead,SH,480,Nass Summer,2388,9746,KWINAGEESE RIVER,Y,56.01289329,-128.7580768,2022,220,Fence Count,High,Nisgaa_20251202
+Nass,Steelhead,SH,480,Nass Summer,2388,9746,KWINAGEESE RIVER,Y,56.01289329,-128.7580768,2023,72,Fence Count,High,Nisgaa_20251202
+Nass,Steelhead,SH,480,Nass Summer,2388,9746,KWINAGEESE RIVER,Y,56.01289329,-128.7580768,2024,281,Fence Count,High,Nisgaa_20251202
+Nass,Steelhead,SH,480,Nass Summer,2388,9746,KWINAGEESE RIVER,Y,56.01289329,-128.7580768,2025,139,Fence Count,High,Nisgaa_20251202

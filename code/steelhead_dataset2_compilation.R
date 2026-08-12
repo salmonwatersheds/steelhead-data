@@ -21,7 +21,7 @@ pointid_max <- max(dat2_all$pointid)
 streamid_max <- max(dat2_all$streamid)
 
 # Subset steelhead
-dat2 <- dat_all %>% 
+dat2 <- dat2_all %>% 
 	filter(species_name == "Steelhead") %>%
 	filter(!is.na(stream_observed_count))
 
@@ -291,6 +291,63 @@ dat2_updated <- dat2_updated %>%
 	bind_rows(dat2_sustut) %>% # Add in new data
 	arrange(cuid, stream_name_pse) 
 
+#-----------------------------------------------------------------------------
+# Nass
+#-----------------------------------------------------------------------------
+# Mediadin and KWINAGEESE fence counts from Nisga'a report
+dat2_nisgaa <- read.csv("data/NisgaaFWD_PostSeason.csv")
+
+# Fold in
+dat2_updated <- dat2_updated %>%
+	filter(paste(streamid, year) %in% paste(dat2_nisgaa$streamid, dat2_nisgaa$year) == FALSE) %>% # Use bison_tribs if existing
+	bind_rows(dat2_nisgaa) %>%
+	arrange(cuid, stream_name_pse) 
+
+dat2_updated %>% filter(region == "Nass") %>%
+	select(cuid, cu_name_pse, stream_name_pse, source_id) %>%
+	distinct(.keep_all = TRUE) # All other surveys are from English et al. 2023
+
+dat2_updated$source_id[dat2_updated$region == "Nass" & is.na(dat2_updated$source_id)] <- "English_20230930"
+
+#-----------------------------------------------------------------------------
+# Northern Transboundary
+#-----------------------------------------------------------------------------
+
+dat2_taku <- read.csv("data/TTC_taku_fishwheel.csv")
+
+# Some differences with existing data...plot?
+plot(dat2$year[dat2$stream_name_pse == "CANYON ISLAND"], dat2$stream_observed_count[dat2$stream_name_pse == "CANYON ISLAND"], "o", col = grey(0.6), xlim = c(1980, 2026))
+points(dat2_taku$Year, dat2_taku$Steelhead, "o", col = 2)
+# Note: Use new data
+
+# Format new data for dataset 2
+dat2_canyon <- data.frame(
+	year = dat2_taku$Year,
+	stream_observed_count = dat2_taku$Steelhead
+) %>%
+	# Add survey details (consistent among years)
+	mutate(stream_survey_method = "Fishwheel",
+				 stream_survey_quality = "Low",
+				 source_id = "Foos_20260708") %>%
+	# Add survey location etc. 
+	mutate(dat2 %>% 
+				 	filter(stream_name_pse == "CANYON ISLAND", year == 2000) %>%
+				 	select(region, species_name, species_qualified, cuid, cu_name_pse, pointid, streamid,	stream_name_pse, indicator, latitude, longitude)) %>%
+	# Re-order to match dataste 2
+	select(region,	species_name,	species_qualified,	cuid,	cu_name_pse,	pointid,	streamid,	stream_name_pse,	indicator,	latitude,	longitude,	year,	stream_observed_count,	stream_survey_method,	stream_survey_quality,	source_id) %>%
+	filter(!is.na(stream_observed_count))
+
+# Fold in
+dat2_updated <- dat2_updated %>%
+	filter(stream_name_pse != "CANYON ISLAND") %>% # Remove existing data
+	bind_rows(dat2_canyon) %>% # Add in new data
+	arrange(cuid, stream_name_pse) 
+
+#-----------------------------------------------------------------------------
+# Columbia
+#-----------------------------------------------------------------------------
+
+
 ###############################################################################
 # Write output data
 ###############################################################################
@@ -299,7 +356,12 @@ sort(unique(dat2_updated$source_id))
 
 # Check no NAs
 apply(dat2_updated, 2, function(x)sum(is.na(x)))
-dat2_updated[is.na(dat2_updated$region),]
+
+# What are the remaining missing source_ids?
+dat2_updated %>% filter(is.na(source_id)) %>%
+	select(region, cu_name_pse, stream_name_pse) %>%
+	distinct(.keep_all = TRUE)
+
 
 X_Drive <- get_XDrive()
 

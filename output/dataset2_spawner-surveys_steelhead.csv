@@ -56,74 +56,82 @@
 "Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,1998,381,"Mark & Recapture: Petersen","Medium-High",NA
 "Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,1999,357,"Mark & Recapture: Petersen","Medium-High",NA
 "Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,2000,286,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2000,110,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2001,107,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2004,54,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2007,43,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2010,93,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2000,84,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2001,85,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2004,59,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2007,46,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2010,222,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2000,98,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2001,112,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2004,67,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2007,45,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2010,97,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2000,96,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2001,137,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2002,267,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2004,80,"Mark & Recapture: Petersen","Medium-High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2005,304,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2006,129,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2007,27,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2009,33,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2010,155,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2011,49,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2012,296,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2013,208,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2014,459,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2015,163,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2016,380,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2017,204,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2018,22,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2019,196,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2020,112,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2021,67,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1994,8,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1995,11,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1996,8,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1997,3,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1998,33,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1999,15,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2000,49,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2001,72,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2002,41,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2003,30,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2004,58,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2005,85,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2006,39,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2007,32,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2008,29,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2009,18,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2010,81,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2011,12,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2012,34,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2013,23,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2014,28,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2015,3,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2016,7,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2017,5,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2018,9,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2019,6,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2020,7,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2021,6,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2387,9744,"SEASKINNISH CREEK","Y",55.28286,-129.02037,2007,17,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2387,9744,"SEASKINNISH CREEK","Y",55.28286,-129.02037,2008,40,"Fence Count","High",NA
-"Nass","Steelhead","SH",480,"Nass Summer",2387,9744,"SEASKINNISH CREEK","Y",55.28286,-129.02037,2010,3,"Fence Count","High",NA
-"Nass","Steelhead","SH",481,"Nass Winter",239,9755,"KSI GINGOLX","Y",54.99629022,-129.9623625,2001,5,"Fence Count","High",NA
-"Nass","Steelhead","SH",481,"Nass Winter",239,9755,"KSI GINGOLX","Y",54.99629022,-129.9623625,2002,26,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2000,110,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2001,107,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2004,54,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2007,43,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2010,93,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2000,84,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2001,85,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2004,59,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2007,46,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2010,222,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2000,98,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2001,112,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2004,67,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2007,45,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2010,97,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2000,96,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2001,137,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2002,267,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2004,80,"Mark & Recapture: Petersen","Medium-High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2005,304,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2006,129,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2007,27,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2009,33,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2010,155,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2011,49,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2012,296,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2013,208,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2014,459,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2015,163,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2016,380,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2017,204,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2018,22,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2019,196,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2020,112,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2021,67,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2022,220,"Fence Count","High","Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2023,72,"Fence Count","High","Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2024,281,"Fence Count","High","Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2025,139,"Fence Count","High","Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1994,8,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1995,11,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1996,8,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1997,3,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1998,33,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1999,15,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2000,49,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2001,72,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2002,41,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2003,30,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2004,58,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2005,85,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2006,39,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2007,32,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2008,29,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2009,18,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2010,81,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2011,12,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2012,34,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2013,23,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2014,28,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2015,3,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2016,7,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2017,5,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2018,9,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2019,6,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2020,7,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.0365046,-129.18517,2021,14,"Fence Count","High","Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.0365046,-129.18517,2022,10,"Fence Count","High","Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.0365046,-129.18517,2023,5,"Fence Count","High","Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.0365046,-129.18517,2024,11,"Fence Count","High","Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.0365046,-129.18517,2025,2,"Fence Count","High","Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2387,9744,"SEASKINNISH CREEK","Y",55.28286,-129.02037,2007,17,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2387,9744,"SEASKINNISH CREEK","Y",55.28286,-129.02037,2008,40,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2387,9744,"SEASKINNISH CREEK","Y",55.28286,-129.02037,2010,3,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",481,"Nass Winter",239,9755,"KSI GINGOLX","Y",54.99629022,-129.9623625,2001,5,"Fence Count","High","English_20230930"
+"Nass","Steelhead","SH",481,"Nass Winter",239,9755,"KSI GINGOLX","Y",54.99629022,-129.9623625,2002,26,"Fence Count","High","English_20230930"
 "Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2006,146,"Resistivity Counter","Medium-High",NA
 "Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2007,76,"Resistivity Counter","Medium-High",NA
 "Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2009,26,"Resistivity Counter","Medium-High",NA
@@ -647,35 +655,44 @@
 "East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2013,75,"Snorkel Survey","Low","McCulloch_20260804"
 "East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2014,231,"Snorkel Survey","Low","McCulloch_20260804"
 "East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2015,122,"Snorkel Survey","Low","McCulloch_20260804"
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1987,34,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1988,34,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1989,38,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1990,43,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1991,138,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1992,22,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1993,16,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1994,107,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1995,61,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1996,68,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1997,103,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1998,119,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1999,119,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2000,160,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2001,125,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2002,87,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2003,93,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2004,63,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2005,79,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2006,47,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2007,57,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2009,52,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2010,176,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2011,93,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2012,24,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2013,11,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2015,47,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2018,12,"Fish wheel","Medium",NA
-"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2023,9,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1987,34,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1988,34,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1989,38,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1990,43,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1991,138,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1992,22,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1993,16,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1994,107,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1995,61,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1996,68,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1997,103,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1998,119,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1999,119,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2000,160,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2001,125,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2002,87,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2003,93,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2004,63,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2005,79,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2006,47,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2007,57,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2009,52,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2010,176,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2011,93,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2012,24,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2013,11,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2014,150,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2015,47,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2016,13,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2017,10,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2018,12,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2019,23,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2020,19,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2021,16,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2022,39,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2023,9,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2024,21,"Fishwheel","Low","Foos_20260708"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2025,17,"Fishwheel","Low","Foos_20260708"
 "Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2409,10271,"INKANEEP CREEK","N",49.074722,-119.501944,2006,64,"Fence Count","High","ONA_20110201"
 "Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2409,10271,"INKANEEP CREEK","N",49.074722,-119.501944,2008,59,"Fence Count","High","ONA_20110201"
 "Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2409,10271,"INKANEEP CREEK","N",49.074722,-119.501944,2009,20,"Fence Count","High","ONA_20110201"
@@ -700,3 +717,4 @@
 "Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2022,10,"Mark-recapture","Medium","OBMEP_20250228"
 "Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2023,14,"Mark-recapture","Medium","OBMEP_20250228"
 "Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2024,11,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2025,1,"Mark-recapture","Medium","OBMEP_20260228"

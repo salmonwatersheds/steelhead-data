@@ -34,10 +34,11 @@ dat2 <- read.csv("output/dataset2_spawner-surveys_Steelhead.csv")
 # Skeena
 #------------------------------------------------------------------------------
 
-# Upper Sustut - Cu estimated spawners is equal to Upper Sustut spawner survey
+# Upper Sustut - CU estimated spawners is equal to Upper Sustut spawner survey
 dat1_updated %>% filter(cu_name_pse == "Upper Sustut") 
 dat2 %>% 
 	filter(stream_name_pse == "UPPER SUSTUT RIVER") %>% 
 	select(year, stream_observed_count) %>%
 	left_join(dat1_updated %>% filter(cu_name_pse == "Upper Sustut") %>% select(year, estimated_count, observed_count)) # All Match
 
+dat1_updated <- 
