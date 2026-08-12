@@ -1,0 +1,702 @@
+"region","species_name","species_qualified","cuid","cu_name_pse","pointid","streamid","stream_name_pse","indicator","latitude","longitude","year","stream_observed_count","stream_survey_method","stream_survey_quality","source_id"
+"Skeena","Steelhead","SH",280,"Upper Skeena Headwaters",2384,9708,"SUSTUT RIVER","Y",56.32746983,-127.2023541,1971,3000,"Other Estimate Method","Low",NA
+"Skeena","Steelhead","SH",280,"Upper Skeena Headwaters",2384,9708,"SUSTUT RIVER","Y",56.32746983,-127.2023541,1986,3072,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",280,"Upper Skeena Headwaters",2384,9708,"SUSTUT RIVER","Y",56.32746983,-127.2023541,1989,700,"Other Estimate Method","Low",NA
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,1994,584,"Fence Count","High","ProvBC_20190801"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,1995,467,"Fence Count","High","ProvBC_20190801"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,1996,466,"Fence Count","High","ProvBC_20190801"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,1997,649,"Fence Count","High","ProvBC_20190801"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,1998,1064,"Fence Count","High","ProvBC_20190801"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,1999,731,"Fence Count","High","ProvBC_20190801"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2000,377,"Fence Count","High","ProvBC_20190801"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2001,756,"Fence Count","High","ProvBC_20190801"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2002,812,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2003,1115,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2004,1042,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2005,267,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2006,133,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2007,263,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2008,193,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2009,1162,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2010,1050,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2011,1186,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2012,1073,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2013,988,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2014,897,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2015,959,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2016,1532,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2017,1005,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2018,299,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2019,670,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2020,233,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2021,133,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2022,181,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2023,60,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2024,608,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2385,9712,"UPPER SUSTUT RIVER","Y",56.643523,-126.49908,2025,369,"Snorkel Survey","Low","Miyazaki_20260505"
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,1999,28527,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2000,41428,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2001,15948,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2002,25398,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2003,12150,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2004,15670,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2005,15341,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2006,15138,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2007,19073,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2008,27484,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2009,24973,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2010,41140,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2011,19149,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2386,9724,"BULKLEY RIVER","Y",54.931604,-127.300022,2012,27465,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,1993,435,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,1994,237,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,1995,330,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,1996,120,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,1997,543,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,1998,381,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,1999,357,"Mark & Recapture: Petersen","Medium-High",NA
+"Skeena","Steelhead","SH",287,"Bulkley",2408,10273,"TOBOGGAN CREEK","N",54.940669,-127.316877,2000,286,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2000,110,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2001,107,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2004,54,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2007,43,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2391,9751,"BELL-IRVING RIVER","Y",56.49253106,-129.4398657,2010,93,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2000,84,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2001,85,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2004,59,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2007,46,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2389,9747,"CRANBERRY RIVER","Y",55.55326089,-128.7055047,2010,222,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2000,98,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2001,112,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2004,67,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2007,45,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2392,9754,"DAMDOCHAX CREEK","Y",56.52624071,-128.2341717,2010,97,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2000,96,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2001,137,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2002,267,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2004,80,"Mark & Recapture: Petersen","Medium-High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2005,304,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2006,129,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2007,27,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2009,33,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2010,155,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2011,49,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2012,296,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2013,208,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2014,459,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2015,163,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2016,380,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2017,204,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2018,22,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2019,196,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2020,112,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2388,9746,"KWINAGEESE RIVER","Y",56.01289329,-128.7580768,2021,67,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1994,8,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1995,11,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1996,8,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1997,3,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1998,33,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,1999,15,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2000,49,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2001,72,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2002,41,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2003,30,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2004,58,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2005,85,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2006,39,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2007,32,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2008,29,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2009,18,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2010,81,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2011,12,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2012,34,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2013,23,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2014,28,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2015,3,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2016,7,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2017,5,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2018,9,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2019,6,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2020,7,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2390,9750,"MEZIADIN RIVER","Y",56.03650458,-129.1851747,2021,6,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2387,9744,"SEASKINNISH CREEK","Y",55.28286,-129.02037,2007,17,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2387,9744,"SEASKINNISH CREEK","Y",55.28286,-129.02037,2008,40,"Fence Count","High",NA
+"Nass","Steelhead","SH",480,"Nass Summer",2387,9744,"SEASKINNISH CREEK","Y",55.28286,-129.02037,2010,3,"Fence Count","High",NA
+"Nass","Steelhead","SH",481,"Nass Winter",239,9755,"KSI GINGOLX","Y",54.99629022,-129.9623625,2001,5,"Fence Count","High",NA
+"Nass","Steelhead","SH",481,"Nass Winter",239,9755,"KSI GINGOLX","Y",54.99629022,-129.9623625,2002,26,"Fence Count","High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2006,146,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2007,76,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2009,26,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2010,52,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2011,100,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2012,53,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2013,78,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2014,28,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2015,45,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2393,9785,"KLOIYA RIVER","Y",54.24152072,-130.1527862,2016,66,"Resistivity Counter","Medium-High",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,1977,154,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,1982,90,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,1991,93,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,1995,46,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,1996,100,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,1999,452,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,2000,151,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,2001,540,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,2002,294,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,2003,184,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,2004,350,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2407,10272,"ATNARKO RIVER","N",52.376631,-126.093529,2006,324,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2394,9853,"BELLA COOLA RIVER","Y",52.42317066,-126.4367711,1997,200,"Snorkel Survey","Low",NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2394,9853,"BELLA COOLA RIVER","Y",52.42317066,-126.4367711,1998,220,"Snorkel Survey","Low",NA
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2396,9856,"BRIDGE RIVER","Y",50.82670599,-123.2177592,2000,155,"Area Under the Curve","Medium-Low","Hagen_20010412"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2396,9856,"BRIDGE RIVER","Y",50.82670599,-123.2177592,2014,238,"Resistivity Counter","Medium-High","White_20210224"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2396,9856,"BRIDGE RIVER","Y",50.82670599,-123.2177592,2015,59,"Resistivity Counter","Medium-High","White_20210224"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2396,9856,"BRIDGE RIVER","Y",50.82670599,-123.2177592,2017,26,"Resistivity Counter","Low","White_20210224"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2396,9856,"BRIDGE RIVER","Y",50.82670599,-123.2177592,2018,14,"Resistivity Counter","Low","White_20210224"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2396,9856,"BRIDGE RIVER","Y",50.82670599,-123.2177592,2019,50,"Resistivity Counter","Medium","White_20210224"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1972,960,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1973,1435,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1974,677,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1975,581,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1976,1022,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1977,494,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1978,1152,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1979,715,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1980,893,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1981,586,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1982,936,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1983,1531,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1984,1133,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1985,3149,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1986,1992,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1987,2328,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1988,2342,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1989,610,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1990,403,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1991,466,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1992,542,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1993,1546,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1994,917,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1995,830,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1996,518,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1997,1373,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1998,672,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,1999,744,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2000,739,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2001,1258,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2002,1114,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2003,917,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2004,254,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2005,384,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2006,552,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2007,374,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2008,158,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2009,350,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2010,144,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2011,374,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2012,307,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2013,374,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2014,955,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2015,418,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2016,134,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2018,77,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2019,120,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2020,38,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2017,180,"Unknown Estimate Method","Unknown","Bison_20170804"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2021,19,"Unknown Estimate Method","Unknown","Bison_20210806"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2022,19,"Unknown Estimate Method","Unknown","Bison_20220715"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2023,134,"Unknown Estimate Method","Unknown","Bison_20230828"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2024,96,"Unknown Estimate Method","Unknown","Bison_20240729"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2025,154,"Unknown Estimate Method","Unknown","Bison_20250908"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2397,9857,"CHILCOTIN RIVER","Y",51.89187076,-122.9310772,2026,34,"Unknown Estimate Method","Unknown","Bison_20260729"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2395,9855,"SETON RIVER","Y",50.67081909,-121.9533358,2019,25,"Resistivity Counter","Unknown","Buchanan_20200831"
+"Fraser","Steelhead","SH",781,"Thompson Summer",74,9862,"BONAPARTE RIVER","Y",50.73921386,-121.258846,2017,57,"Unknown Estimate Method","Unknown","Bison_20170804"
+"Fraser","Steelhead","SH",781,"Thompson Summer",74,9862,"BONAPARTE RIVER","Y",50.73921386,-121.258846,2021,30,"Unknown Estimate Method","Unknown","Bison_20210806"
+"Fraser","Steelhead","SH",781,"Thompson Summer",74,9862,"BONAPARTE RIVER","Y",50.73921386,-121.258846,2022,20,"Unknown Estimate Method","Unknown","Bison_20220715"
+"Fraser","Steelhead","SH",781,"Thompson Summer",74,9862,"BONAPARTE RIVER","Y",50.73921386,-121.258846,2024,13,"Unknown Estimate Method","Unknown","Bison_20240729"
+"Fraser","Steelhead","SH",781,"Thompson Summer",74,9862,"BONAPARTE RIVER","Y",50.73921386,-121.258846,2025,43,"Unknown Estimate Method","Unknown","Bison_20250908"
+"Fraser","Steelhead","SH",781,"Thompson Summer",74,9862,"BONAPARTE RIVER","Y",50.73921386,-121.258846,2026,23,"Unknown Estimate Method","Unknown","Bison_20260729"
+"Fraser","Steelhead","SH",781,"Thompson Summer",73,NA,"COLDWATER RIVER","Y",50.11490174,-120.8043058,2017,22,"Unknown Estimate Method","Unknown","Bison_20170804"
+"Fraser","Steelhead","SH",781,"Thompson Summer",73,NA,"COLDWATER RIVER","Y",50.11490174,-120.8043058,2021,42,"Unknown Estimate Method","Unknown","Bison_20210806"
+"Fraser","Steelhead","SH",781,"Thompson Summer",75,9863,"DEADMAN RIVER","Y",50.74444787,-120.9187363,2017,47,"Unknown Estimate Method","Unknown","Bison_20170804"
+"Fraser","Steelhead","SH",781,"Thompson Summer",75,9863,"DEADMAN RIVER","Y",50.74444787,-120.9187363,2021,63,"Unknown Estimate Method","Unknown","Bison_20210806"
+"Fraser","Steelhead","SH",781,"Thompson Summer",75,9863,"DEADMAN RIVER","Y",50.74444787,-120.9187363,2022,20,"Unknown Estimate Method","Unknown","Bison_20220715"
+"Fraser","Steelhead","SH",781,"Thompson Summer",75,9863,"DEADMAN RIVER","Y",50.74444787,-120.9187363,2024,36,"Unknown Estimate Method","Unknown","Bison_20240729"
+"Fraser","Steelhead","SH",781,"Thompson Summer",75,9863,"DEADMAN RIVER","Y",50.74444787,-120.9187363,2025,130,"Unknown Estimate Method","Unknown","Bison_20250908"
+"Fraser","Steelhead","SH",781,"Thompson Summer",75,9863,"DEADMAN RIVER","Y",50.74444787,-120.9187363,2026,28,"Unknown Estimate Method","Unknown","Bison_20260729"
+"Fraser","Steelhead","SH",781,"Thompson Summer",71,9861,"NICOLA RIVER","Y",50.42767089,-121.3162004,2017,74,"Unknown Estimate Method","Unknown","Bison_20170804"
+"Fraser","Steelhead","SH",781,"Thompson Summer",71,9861,"NICOLA RIVER","Y",50.42767089,-121.3162004,2021,34,"Unknown Estimate Method","Unknown","Bison_20210806"
+"Fraser","Steelhead","SH",781,"Thompson Summer",71,9861,"NICOLA RIVER","Y",50.42767089,-121.3162004,2022,64,"Unknown Estimate Method","Unknown","Bison_20220715"
+"Fraser","Steelhead","SH",781,"Thompson Summer",71,9861,"NICOLA RIVER","Y",50.42767089,-121.3162004,2024,137,"Unknown Estimate Method","Unknown","Bison_20240729"
+"Fraser","Steelhead","SH",781,"Thompson Summer",71,9861,"NICOLA RIVER","Y",50.42767089,-121.3162004,2025,211,"Unknown Estimate Method","Unknown","Bison_20250908"
+"Fraser","Steelhead","SH",781,"Thompson Summer",71,9861,"NICOLA RIVER","Y",50.42767089,-121.3162004,2026,81,"Unknown Estimate Method","Unknown","Bison_20260729"
+"Fraser","Steelhead","SH",781,"Thompson Summer",72,NA,"SPIUS CREEK ","Y",50.14632338,-121.0204424,2017,54,"Unknown Estimate Method","","Bison_20170804"
+"Fraser","Steelhead","SH",781,"Thompson Summer",72,NA,"SPIUS CREEK ","Y",50.14632338,-121.0204424,2021,34,"Unknown Estimate Method","Unknown","Bison_20210806"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1978,1666,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1979,1666,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1980,952,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1981,1247,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1982,1190,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1983,2857,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1984,1120,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1985,3510,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1986,2330,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1987,1680,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1988,1500,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1989,1670,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1990,1200,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1991,1200,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1992,900,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1993,2960,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1994,2660,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1995,2590,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1996,1020,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1997,3000,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1998,1470,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,1999,2520,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2000,1500,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2001,1810,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2002,3160,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2003,1480,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2004,950,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2005,2440,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2006,1660,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2007,740,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2008,1160,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2009,690,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2010,590,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2011,520,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2012,1000,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2013,1090,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2014,1300,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2015,850,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2016,360,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2017,240,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2018,150,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2019,240,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2020,257,"Not Applicable","Unknown","Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2021,203,"Addition/Subtraction","Unknown","Bison_20210806"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2022,104,"Addition/Subtraction","Unknown","Bison_20220715"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2023,371,"Addition/Subtraction","Unknown","Bison_20230828"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2024,186,"Addition/Subtraction","Unknown","Bison_20240729"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2025,384,"Addition/Subtraction","Unknown","Bison_20250908"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2398,9860,"THOMPSON RIVER","Y",50.7541777,-121.1991427,2026,132,"Addition/Subtraction","Unknown","Bison_20260729"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1974,117,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1975,190,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1976,133,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1977,160,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1978,170,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1979,216,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1980,402,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1981,300,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1982,300,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1983,289,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1984,475,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1985,233,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1986,525,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1987,525,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1988,381,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1989,207,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1990,117,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1992,75,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1993,47,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1994,218,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1995,125,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1996,581,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1997,220,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1998,288,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,1999,80,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2000,270,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2001,382,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2002,529,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2003,216,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2004,132,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2005,204,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2006,238,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2007,122,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2008,141,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2009,132,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2010,351,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2011,391,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2012,399,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2399,9881,"COQUIHALLA RIVER","Y",49.37965455,-121.3350092,2013,512,"Snorkel Survey","Low","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1982,57,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1983,280,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1984,489,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1985,461,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1986,374,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1987,224,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1988,267,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1989,138,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1990,98,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1991,83,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1992,75,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1993,62,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1994,134,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1995,107,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1996,264,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1997,122,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1998,85,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,1999,41,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2000,50,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2001,116,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2002,51,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2003,95,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2004,137,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2005,58,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2006,47,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2007,226,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2008,148,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2009,233,"Fence Count","Medium","Beere_2014"
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2400,9882,"LITTLE CAMPBELL RIVER","Y",50.03478097,-125.2745432,2010,165,"Fence Count","Medium","Beere_2014"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,1996,173,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,1997,111,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,1999,162,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2000,78,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2001,322,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2002,440,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2003,317,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2004,345,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2005,336,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2006,320,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2007,541,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2008,345,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2009,115,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2010,629,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2011,605,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2012,395,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2013,943,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2014,545,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2015,579,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2016,512,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2017,711,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2018,384,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2019,422,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2401,9919,"CHEAKAMUS RIVER","Y",49.79119771,-123.1672473,2020,632,"Combined Methods","Medium",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1982,507.27272778,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1983,839.401975619707,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1984,988.310817823915,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1985,1421.61074202467,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1986,601.60452427382,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1987,1193.70076135532,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1988,1399.7981587859,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1989,278.23299685363,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1990,536.711111288711,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1991,238.571809004679,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1992,507.681607422976,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1993,224.589715535334,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1994,86.6554525037845,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1995,258.283653538693,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1996,152.972723669831,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1998,25.9887653744431,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,1999,265.069643989737,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2000,49.5157896127549,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2001,233.768103764791,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2002,191.218181994855,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2003,127.090909202109,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2004,111.127272820455,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2005,144.436363744145,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2006,211.945454696255,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2007,148.109091006291,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2008,60.9818182168364,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2009,96.2181818688,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2010,159.927272806691,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2011,253.381818315345,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2012,140.163636471891,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2013,297.800000263,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2014,164.363636490909,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2015,330.036363906655,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2016,278.127272964382,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2017,138.363636469236,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2018,57.7818182174909,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2019,134.854545548636,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2020,56.6363636487091,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2021,61.2181818583091,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2022,54.2727273136364,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2023,82.9272727816909,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2024,216.163636504527,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2025,78.18181826,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",455,9978,"ENGLISHMAN RIVER","Y",49.32530375,-124.2916648,2026,182.8000001828,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1976,859,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1977,625,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1978,706,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1979,299,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1980,209,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1981,608,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1982,938,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1983,2730,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1984,1344,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1985,580,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1986,1237,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1987,2939,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1988,1778,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1989,1290,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1990,1374,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1991,277,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1992,540,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1993,240,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1994,193,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1995,332,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1996,106,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1997,62,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1998,25,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,1999,85,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2000,148,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2001,195,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2002,115,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2003,141,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2004,85,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2005,102,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2006,118,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2007,110,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2008,78,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2009,62,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2010,54,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2011,72,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2012,118,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2013,143,"Mark & Recapture: Petersen","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2014,161,"Resistivity Counter","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2015,186,"Resistivity Counter","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2016,133,"Resistivity Counter","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2017,151,"Resistivity Counter","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2018,35,"Resistivity Counter","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2019,65,"Resistivity Counter","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2020,119,"Resistivity Counter","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2021,32,"Resistivity Counter","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2022,63,"Resistivity Counter","Medium-High",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2402,9995,"KEOGH RIVER","Y",50.67593152,-127.3500607,2023,109,"Resistivity Counter","Medium-High","Davies_20241129"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,1999,131,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2000,66,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2001,198,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2002,170,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2003,39,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2004,33,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2005,48,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2006,249,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2008,215,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2009,199,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2010,76,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2011,153,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2012,205,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2013,214,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2014,29,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2015,72,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2016,50,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2017,54,"Snorkel Survey","Low",NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",474,9992,"SALMON RIVER","Y",50.37311148,-125.9299309,2019,94,"Snorkel Survey","Low",NA
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1975,154,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1976,95,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1977,128,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1978,75,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1979,97,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1980,254,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1981,249,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1982,357,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1983,227,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1984,567,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1985,561,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1986,367,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1987,326,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1988,271,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1989,235,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1990,216,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1991,196,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1992,312,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1993,166,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1994,239,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1995,196,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1996,501,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1997,282,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1998,268,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,1999,245,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2000,457,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2001,272,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2002,277,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2003,114,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2004,101,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2005,87,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2006,81,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2018,66,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2019,48,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2020,82,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2021,42,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2022,32,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2023,70,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2404,10080,"GOLD RIVER","Y",49.75192114,-126.052363,2025,72,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,1985,234,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,1987,497,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,1990,247,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,1991,250,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,1992,277,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,1993,331,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,1994,102,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,1998,494,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,1999,327,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2000,295,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2001,262,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2002,318,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2003,199,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2004,79,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2005,11,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2006,373,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2008,112,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2009,130,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2011,647,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2012,522,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2013,326,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2014,337,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2015,215,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2016,456,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2017,293,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2018,46,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2019,33,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2020,172,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2021,121,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2022,453,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2023,34,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2024,409,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2403,10067,"GORDON RIVER","Y",48.59632264,-124.4318171,2025,317,"Snorkel Survey","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1975,114,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1976,108,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1977,168,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1978,100,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1979,196,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1980,324,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1981,402,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1982,392,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1983,411,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1984,562,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1985,323,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1986,386,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1987,367,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1988,338,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1989,196,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1990,223,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1991,178,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1992,304,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1993,167,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1994,180,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1995,211,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1996,359,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1997,244,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1998,394,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,1999,233,"Area Under the Curve","Low","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2000,385,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2001,387,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2002,301,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2003,230,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2004,122,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2005,150,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2006,286,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2007,178,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2008,156,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2009,212,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2010,364,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2011,229,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2012,283,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2013,185,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2014,217,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2015,103,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2016,146,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2017,145,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2018,259,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2019,77,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2020,82,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2021,36,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2022,108,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2023,168,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2024,290,"Area Under the Curve","Medium","McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2405,10081,"HEBER RIVER","Y",49.78969699,-126.0284032,2025,153,"Area Under the Curve","Medium","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1976,144,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1977,127,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1978,40,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1979,180,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1980,103,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1981,201,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1982,170,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1983,193,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1984,216,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1985,417,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1986,301,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1987,406,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1988,324,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1989,392,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1990,277,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1991,337,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1992,266,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1993,202,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1994,230,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1995,149,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1996,100,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1997,187,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1998,164,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,1999,44,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2000,104,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2001,119,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2002,129,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2003,73,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2004,67,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2005,63,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2006,139,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2007,103,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2008,194,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2009,253,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2010,199,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2011,242,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2012,269,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2013,75,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2014,231,"Snorkel Survey","Low","McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2406,10095,"TSITIKA RIVER","Y",50.37667272,-126.546528,2015,122,"Snorkel Survey","Low","McCulloch_20260804"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1987,34,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1988,34,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1989,38,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1990,43,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1991,138,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1992,22,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1993,16,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1994,107,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1995,61,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1996,68,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1997,103,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1998,119,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,1999,119,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2000,160,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2001,125,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2002,87,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2003,93,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2004,63,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2005,79,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2006,47,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2007,57,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2009,52,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2010,176,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2011,93,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2012,24,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2013,11,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2015,47,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2018,12,"Fish wheel","Medium",NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2325,10309,"CANYON ISLAND","N",58.552425,-133.680472,2023,9,"Fish wheel","Medium",NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2409,10271,"INKANEEP CREEK","N",49.074722,-119.501944,2006,64,"Fence Count","High","ONA_20110201"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2409,10271,"INKANEEP CREEK","N",49.074722,-119.501944,2008,59,"Fence Count","High","ONA_20110201"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2409,10271,"INKANEEP CREEK","N",49.074722,-119.501944,2009,20,"Fence Count","High","ONA_20110201"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2409,10271,"INKANEEP CREEK","N",49.074722,-119.501944,2010,77,"Fence Count","High","ONA_20110201"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2409,10271,"INKANEEP CREEK","N",49.074722,-119.501944,2011,2,"Fence Count","High","ONA_20110201"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2006,233,"Mark-recapture","Medium",NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2007,121,"Mark-recapture","Medium",NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2008,116,"Mark-recapture","Medium",NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2009,434,"Mark-recapture","Medium",NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2010,377,"Mark-recapture","Medium",NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2011,174,"Mark-recapture","Medium",NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2012,130,"Mark-recapture","Medium",NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2013,24,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2014,39,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2015,91,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2016,30,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2017,20,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2018,9,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2019,57,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2020,29,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2021,10,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2022,10,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2023,14,"Mark-recapture","Medium","OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2410,9701,"OKANAGAN RIVER","N",49.07636988,-119.5181801,2024,11,"Mark-recapture","Medium","OBMEP_20250228"
