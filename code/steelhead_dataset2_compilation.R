@@ -14,7 +14,14 @@ library(readxl)
 source("https://raw.githubusercontent.com/salmonwatersheds/population-indicators/refs/heads/master/code/functions_general.R")
 
 # spawner surveys
-dat2 <- retrieve_data_from_PSF_databse_fun(name_dataset = "appdata.vwdl_streamspawnersurveys_output") %>% 
+dat2_all <- retrieve_data_from_PSF_databse_fun(name_dataset = "appdata.vwdl_streamspawnersurveys_output")
+
+# Find max pointid and streamid for new sites
+pointid_max <- max(dat2_all$pointid)
+streamid_max <- max(dat2_all$streamid)
+
+# Subset steelhead
+dat2 <- dat_all %>% 
 	filter(species_name == "Steelhead") %>%
 	filter(!is.na(stream_observed_count))
 
@@ -53,7 +60,7 @@ dat2_updated$stream_survey_quality[dat2_updated$stream_name_pse == "LITTLE CAMPB
 dat2_updated$source_id[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER" & dat2_updated$year %in% c(1982:2013)] <- "Beere_2014"
 
 # ** Note that lat/lon were wrong in previous data, placing this surey on Vancouver Island
-dat2_updated$pointid[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER"] <- NA
+dat2_updated$pointid[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER"] <- pointid_max + 1
 dat2_updated$latitude[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER"] <- 49.022370
 dat2_updated$longitude[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER"] <- -122.694413
 
@@ -78,6 +85,10 @@ bison_tribs <- read.csv("data/InteriorFraser_Bison.csv") %>%
 dat2_updated <- dat2_updated %>%
 	filter(paste(streamid, year) %in% paste(bison_tribs$streamid, bison_tribs$year) == FALSE) %>% # Use bison_tribs if existing
 	bind_rows(bison_tribs)
+
+# Assign new streamid for new survyes
+dat2_updated$streamid[dat2_updated$stream_name_pse == "COLDWATER RIVER"] <- streamid_max + 1
+dat2_updated$streamid[dat2_updated$stream_name_pse == "SPIUS CREEK"] <- streamid_max + 2
 
 #------------------------------------------------------------------------------
 # Vancouver Island
@@ -241,7 +252,7 @@ dat2_updated <- dat2_updated %>%
 
 #------------------------------------------------------------------------------
 # Skeena
---------------------------------------------------------
+# --------------------------------------------------------
 
 #---------
 # Upper Sustut
@@ -285,6 +296,10 @@ dat2_updated <- dat2_updated %>%
 ###############################################################################
 # Check all source_id are entered - yes
 sort(unique(dat2_updated$source_id))
+
+# Check no NAs
+apply(dat2_updated, 2, function(x)sum(is.na(x)))
+dat2_updated[is.na(dat2_updated$region),]
 
 X_Drive <- get_XDrive()
 
