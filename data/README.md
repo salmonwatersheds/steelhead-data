@@ -13,4 +13,6 @@
 Note that we are moving to include all spawners (natural-origin + hatchery) in our estimated spawner abunndance indicator following guidance from [Withler et al. (2018)](https://waves-vagues.dfo-mpo.gc.ca/Library/40702285.pdf).
 
 
-* `Mcculloch20250113_*` are data on Vancouver Island steelhead surveys provided by Mike McCullough (mike.mcculloch@gov.bc.ca).
+* `Mcculloch2026/*` are data on Vancouver Island steelhead surveys provided by Mike McCullough (mike.mcculloch@gov.bc.ca) on August 4, 2026 to S. Peacock via email.
+
+* `InteriorFraser_Bison.csv` are data compiled from annual spawner survey reports published by the Province of BC and available for 2016-2025 online at https://www2.gov.bc.ca/assets/gov/environment/plants-animals-and-ecosystems/fish-fish-habitat/fishery-resources/interior-fraser-steelhead
