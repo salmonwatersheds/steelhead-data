@@ -1,5 +1,5 @@
 cu_name_pse,cuid,stream_name_pse,year,stream_observed_count,stream_survey_method,stream_survey_quality,source_id,Notes
-Thompson Summer,781,SPIUS CREEK ,2017,54,Unknown Estimate Method,,Bison_20170804,
+Thompson Summer,781,SPIUS CREEK,2017,54,Unknown Estimate Method,,Bison_20170804,
 Thompson Summer,781,COLDWATER RIVER,2017,22,Unknown Estimate Method,Unknown,Bison_20170804,
 Thompson Summer,781,BONAPARTE RIVER,2017,57,Unknown Estimate Method,Unknown,Bison_20170804,
 Thompson Summer,781,DEADMAN RIVER,2017,47,Unknown Estimate Method,Unknown,Bison_20170804,
@@ -9,7 +9,7 @@ Thompson Summer,781,THOMPSON RIVER,2021,203,Addition/Subtraction,Unknown,Bison_2
 Thompson Summer,781,DEADMAN RIVER,2021,63,Unknown Estimate Method,Unknown,Bison_20210806,
 Thompson Summer,781,BONAPARTE RIVER,2021,30,Unknown Estimate Method,Unknown,Bison_20210806,
 Thompson Summer,781,COLDWATER RIVER,2021,42,Unknown Estimate Method,Unknown,Bison_20210806,
-Thompson Summer,781,SPIUS CREEK ,2021,34,Unknown Estimate Method,Unknown,Bison_20210806,
+Thompson Summer,781,SPIUS CREEK,2021,34,Unknown Estimate Method,Unknown,Bison_20210806,
 Thompson Summer,781,NICOLA RIVER,2021,34,Unknown Estimate Method,Unknown,Bison_20210806,
 Mid Fraser Summer,780,CHILCOTIN RIVER,2021,19,Unknown Estimate Method,Unknown,Bison_20210806,
 Mid Fraser Summer,780,CHILCOTIN RIVER,2022,19,Unknown Estimate Method,Unknown,Bison_20220715,
