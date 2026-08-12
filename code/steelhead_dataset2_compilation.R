@@ -46,10 +46,16 @@ dat2_updated$stream_survey_method[dat2_updated$stream_name_pse == "COQUIHALLA RI
 dat2_updated$stream_survey_quality[dat2_updated$stream_name_pse == "COQUIHALLA RIVER" & dat2_updated$year %in% c(1974:2013)] <- "Low"
 dat2_updated$source_id[dat2_updated$stream_name_pse == "COQUIHALLA RIVER" & dat2_updated$year %in% c(1974:2013)] <- "Beere_2014"
 
-# LITTLE CAMPBELL RIVER ** Note that there is wild/hatchery breakdown for this! Just summed here.
+# LITTLE CAMPBELL RIVER 
+# ** Note that there is wild/hatchery breakdown for this! Just summed here.
 dat2_updated$stream_survey_method[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER" & dat2_updated$year %in% c(1982:2013)] <- "Fence Count"
 dat2_updated$stream_survey_quality[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER" & dat2_updated$year %in% c(1982:2013)] <- "Medium"
 dat2_updated$source_id[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER" & dat2_updated$year %in% c(1982:2013)] <- "Beere_2014"
+
+# ** Note that lat/lon were wrong in previous data, placing this surey on Vancouver Island
+dat2_updated$pointid[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER"] <- NA
+dat2_updated$latitude[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER"] <- 49.022370
+dat2_updated$longitude[dat2_updated$stream_name_pse == "LITTLE CAMPBELL RIVER"] <- -122.694413
 
 # SETON RIVER
 dat2_updated$stream_survey_method[dat2_updated$stream_name_pse == "SETON RIVER" & dat2_updated$year == 2019] <- "Resistivity Counter"
