@@ -15,7 +15,7 @@ source("https://raw.githubusercontent.com/salmonwatersheds/population-indicators
 
 # spawner surveys
 dat1 <- retrieve_data_from_PSF_databse_fun(name_dataset = "appdata.vwdl_dataset1cu_output") %>% 
-	filter(species_name == "Steelhead", !is.na(estimated_count))
+	filter(species_name == "Steelhead", !is.na(observed_count)|!is.na(estimated_count))
 
 dat1_updated <- dat1
 
@@ -41,4 +41,15 @@ dat2 %>%
 	select(year, stream_observed_count) %>%
 	left_join(dat1_updated %>% filter(cu_name_pse == "Upper Sustut") %>% select(year, estimated_count, observed_count)) # All Match
 
-dat1_updated <- 
+# Create new data in output format
+dat1_upsus <- dat1_updated %>% filter(cu_name_pse == "Upper Sustut" & year == 2024) %>% 
+	mutate(year = 2025,
+				 estimated_count = dat2$stream_observed_count[dat2$stream_name_pse == "UPPER SUSTUT RIVER" & dat2$year == 2025],
+				 observed_count = dat2$stream_observed_count[dat2$stream_name_pse == "UPPER SUSTUT RIVER" & dat2$year == 2025])
+
+# append 2025
+dat1_updated <- dat1_updated %>%
+	bind_rows(dat1_upsus) 
+
+dat1_updated$source_id[dat1$cu_name_pse == "Upper Sustut"] <- dat2$source_id[dat2$stream_name_pse == "UPPER SUSTUT RIVER" & dat2$year == 2024]
+

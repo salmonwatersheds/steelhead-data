@@ -343,10 +343,35 @@ dat2_updated <- dat2_updated %>%
 	bind_rows(dat2_canyon) %>% # Add in new data
 	arrange(cuid, stream_name_pse) 
 
+
 #-----------------------------------------------------------------------------
 # Columbia
 #-----------------------------------------------------------------------------
 
+dat2_updated %>% filter(region == "Columbia")
+
+obmep <- read.csv("data/Columbia_Steelhead_OBMEP.csv")
+
+# Format new data for dataset 2
+dat2_ok <- data.frame(
+	year = 2025,
+	stream_observed_count = obmep$total_spawners[obmep$year == 2025]
+) %>%
+	# Add survey details (consistent among years)
+	mutate(stream_survey_method = "Mark-recapture",
+				 stream_survey_quality = "Medium",
+				 source_id = "OBMEP_20260228") %>%
+	# Add survey location etc. 
+	mutate(dat2 %>% 
+				 	filter(stream_name_pse == "OKANAGAN RIVER", year == 2009) %>%
+				 	select(region, species_name, species_qualified, cuid, cu_name_pse, pointid, streamid,	stream_name_pse, indicator, latitude, longitude)) %>%
+	# Re-order to match dataste 2
+	select(region,	species_name,	species_qualified,	cuid,	cu_name_pse,	pointid,	streamid,	stream_name_pse,	indicator,	latitude,	longitude,	year,	stream_observed_count,	stream_survey_method,	stream_survey_quality,	source_id)
+
+# Add
+dat2_updated <- dat2_updated %>%
+	bind_rows(dat2_ok) %>% # Add in new data
+	arrange(cuid, stream_name_pse) 
 
 ###############################################################################
 # Write output data
