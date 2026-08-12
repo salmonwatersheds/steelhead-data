@@ -282,7 +282,7 @@ sort(unique(dat2_updated$source_id))
 
 X_Drive <- get_XDrive()
 
-write.csv(dat2_updated, file = "output/dataset2_spawner-surveys_steelhead.csv", row.names = FALSE)
+write.csv(dat2_updated, file = "output/dataset2_spawner-surveys_Steelhead.csv", row.names = FALSE)
 write.csv(dat2_updated,
 					paste0(X_Drive,"1_PROJECTS/1_Active/Population Methods and Analysis/population-data/steelhead-data/output/archive/dataset2_spawner-surveys_Steelhead_", Sys.Date(), ".csv"),
 					row.names = FALSE)
