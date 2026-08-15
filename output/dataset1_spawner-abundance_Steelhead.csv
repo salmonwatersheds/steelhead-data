@@ -1,0 +1,552 @@
+"region","species_name","species_qualified","cuid","cu_name_pse","year","estimated_count","observed_count","source_id"
+"Skeena","Steelhead","SH",280,"Upper Skeena Headwaters",1971,NA,3000,NA
+"Skeena","Steelhead","SH",280,"Upper Skeena Headwaters",1986,NA,3072,NA
+"Skeena","Steelhead","SH",280,"Upper Skeena Headwaters",1989,NA,700,NA
+"Skeena","Steelhead","SH",281,"Upper Sustut",1994,584,584,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",1995,467,467,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",1996,466,466,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",1997,649,649,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",1998,1064,1064,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",1999,731,731,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2000,377,377,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2001,756,756,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2002,812,812,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2003,1115,1115,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2004,1042,1042,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2005,268,267,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2006,133,133,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2007,263,263,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2008,193,193,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2009,1162,1162,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2010,1050,1050,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2011,1186,1186,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2012,1073,1073,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2013,988,988,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2014,895,897,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2015,943,959,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2016,1532,1532,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2017,1005,1005,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2018,299,299,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2019,670,670,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2020,233,233,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2021,135,133,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2022,181,181,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2023,160,60,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2024,608,608,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",281,"Upper Sustut",2025,369,369,"Miyazaki_20260505"
+"Skeena","Steelhead","SH",287,"Bulkley",1993,NA,435,NA
+"Skeena","Steelhead","SH",287,"Bulkley",1994,NA,237,NA
+"Skeena","Steelhead","SH",287,"Bulkley",1995,NA,330,NA
+"Skeena","Steelhead","SH",287,"Bulkley",1996,NA,120,NA
+"Skeena","Steelhead","SH",287,"Bulkley",1997,NA,543,NA
+"Skeena","Steelhead","SH",287,"Bulkley",1998,NA,381,NA
+"Skeena","Steelhead","SH",287,"Bulkley",1999,28527,28884,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2000,41428,41714,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2001,15948,15948,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2002,25398,25398,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2003,12150,12150,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2004,15670,15670,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2005,15341,15341,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2006,15138,15138,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2007,19073,19073,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2008,27484,27484,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2009,24973,24973,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2010,41140,41140,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2011,19149,19149,NA
+"Skeena","Steelhead","SH",287,"Bulkley",2012,27465,27465,NA
+"Skeena","Steelhead","SH",289,"Morice",1999,28527,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2000,41428,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2001,15948,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2002,25398,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2003,12150,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2004,15670,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2005,15341,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2006,15138,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2007,19073,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2008,27484,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2009,24973,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2010,41140,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2011,19149,NA,NA
+"Skeena","Steelhead","SH",289,"Morice",2012,27465,NA,NA
+"Nass","Steelhead","SH",480,"Nass Summer",1992,5000,NA,"Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",1993,9000,NA,"Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",1994,6645,8,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",1995,2972,11,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",1996,11719,8,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",1997,11552,3,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",1998,11650,33,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",1999,10527,15,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2000,14717,437,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2001,13285,513,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2002,17879,308,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2003,17210,30,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2004,4577,318,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2005,7842,389,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2006,4902,168,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2007,6309,210,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2008,13920,69,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2009,27244,51,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2010,20229,651,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2011,22831,61,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2012,13790,330,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2013,7873,231,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2014,20256,487,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2015,16056,166,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2016,25359,387,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2017,9658,209,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2018,29892,31,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2019,11627,202,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2020,4211,119,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2021,6139,81,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2022,9819,230,"English_20230930"
+"Nass","Steelhead","SH",480,"Nass Summer",2023,27000,77,"Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2024,13000,292,"Nisgaa_20251202"
+"Nass","Steelhead","SH",480,"Nass Summer",2025,11000,141,"Nisgaa_20251202"
+"Nass","Steelhead","SH",481,"Nass Winter",2001,NA,5,NA
+"Nass","Steelhead","SH",481,"Nass Winter",2002,NA,26,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2006,NA,146,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2007,NA,76,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2009,NA,26,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2010,NA,52,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2011,NA,100,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2012,NA,53,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2013,NA,78,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2014,NA,28,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2015,NA,45,NA
+"Central Coast","Steelhead","SH",680,"North Coast Winter",2016,NA,66,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1977,NA,154,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1978,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1979,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1980,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1981,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1982,NA,90,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1983,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1984,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1985,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1986,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1987,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1988,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1989,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1990,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1991,NA,93,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1992,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1993,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1994,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1995,NA,46,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1996,NA,100,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1997,NA,200,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1998,NA,220,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",1999,NA,452,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2000,NA,151,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2001,NA,540,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2002,NA,294,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2003,NA,184,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2004,NA,350,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2005,NA,NA,NA
+"Central Coast","Steelhead","SH",683,"Transition Summer",2006,NA,324,NA
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1972,960,960,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1973,1435,1435,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1974,677,677,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1975,581,581,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1976,1022,1022,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1977,494,494,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1978,1152,1152,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1979,715,715,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1980,893,893,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1981,586,586,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1982,936,936,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1983,1531,1531,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1984,1133,1133,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1985,3149,3149,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1986,1992,1992,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1987,2328,2328,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1988,2342,2342,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1989,610,610,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1990,403,403,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1991,466,466,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1992,542,542,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1993,1546,1546,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1994,917,917,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1995,830,830,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1996,518,518,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1997,1373,1373,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1998,672,672,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",1999,744,744,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2000,739,894,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2001,1258,1258,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2002,1114,1114,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2003,917,917,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2004,254,254,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2005,384,384,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2006,552,552,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2007,374,374,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2008,158,158,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2009,350,350,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2010,144,144,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2011,374,374,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2012,307,307,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2013,374,374,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2014,955,1193,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2015,418,477,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2016,134,134,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2017,180,206,"Bison_20170804"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2018,77,91,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2019,120,195,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2020,38,38,"Bison_20210820"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2021,19,19,"Bison_20210806"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2022,19,19,"Bison_20220715"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2023,134,134,"Bison_20230828"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2024,96,96,"Bison_20240729"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2025,154,154,"Bison_20250908"
+"Fraser","Steelhead","SH",780,"Mid Fraser Summer",2026,34,34,"Bison_20260729"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1978,1666,1666,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1979,1666,1666,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1980,952,952,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1981,1247,1247,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1982,1190,1190,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1983,2857,2857,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1984,1120,1120,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1985,3510,3510,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1986,2330,2330,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1987,1680,1680,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1988,1500,1500,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1989,1670,1670,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1990,1200,1200,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1991,1200,1200,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1992,900,900,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1993,2960,2960,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1994,2660,2660,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1995,2590,2590,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1996,1020,1020,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1997,3000,3000,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1998,1470,1470,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",1999,2520,2520,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2000,1500,1500,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2001,1810,1810,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2002,3160,3160,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2003,1480,1480,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2004,950,950,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2005,2440,2440,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2006,1660,1660,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2007,740,740,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2008,1160,1160,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2009,690,690,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2010,590,590,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2011,520,520,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2012,1000,1000,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2013,1090,1090,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2014,1300,1300,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2015,850,850,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2016,360,360,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2017,240,494,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2018,150,150,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2019,240,240,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2020,257,257,"Bison_20210820"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2021,203,406,"Bison_20210806"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2022,104,208,"Bison_20220715"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2023,371,371,"Bison_20230828"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2024,186,372,"Bison_20240729"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2025,384,768,"Bison_20250908"
+"Fraser","Steelhead","SH",781,"Thompson Summer",2026,132,264,"Bison_20260729"
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1974,NA,117,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1975,NA,190,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1976,NA,133,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1977,NA,160,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1978,NA,170,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1979,NA,216,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1980,NA,402,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1981,NA,300,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1982,NA,300,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1983,NA,289,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1984,NA,475,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1985,NA,233,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1986,NA,525,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1987,NA,525,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1988,NA,381,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1989,NA,207,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1990,NA,117,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1992,NA,75,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1993,NA,47,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1994,NA,218,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1995,NA,125,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1996,NA,581,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1997,NA,220,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1998,NA,288,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",1999,NA,80,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2000,NA,270,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2001,NA,382,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2002,NA,529,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2003,NA,216,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2004,NA,132,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2005,NA,204,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2006,NA,238,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2007,NA,122,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2008,NA,141,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2009,NA,132,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2010,NA,351,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2011,NA,391,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2012,NA,399,NA
+"Fraser","Steelhead","SH",784,"Lower Fraser Summer",2013,NA,512,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1982,NA,57,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1983,NA,280,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1984,NA,489,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1985,NA,461,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1986,NA,374,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1987,NA,224,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1988,NA,267,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1989,NA,138,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1990,NA,98,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1991,NA,83,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1992,NA,75,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1993,NA,62,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1994,NA,134,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1995,NA,107,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1996,NA,264,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1997,NA,122,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1998,NA,85,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",1999,NA,41,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2000,NA,50,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2001,NA,116,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2002,NA,51,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2003,NA,95,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2004,NA,137,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2005,NA,58,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2006,NA,47,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2007,NA,226,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2008,NA,148,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2009,NA,233,NA
+"Fraser","Steelhead","SH",785,"Boundary Bay Winter",2010,NA,165,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",1996,173,173,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",1997,111,111,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",1999,162,162,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2000,78,78,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2001,322,322,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2002,440,440,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2003,317,317,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2004,345,345,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2005,336,336,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2006,320,320,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2007,541,541,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2008,345,345,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2009,115,115,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2010,629,629,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2011,605,605,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2012,395,395,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2013,943,943,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2014,545,545,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2015,579,579,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2016,512,512,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2017,711,711,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2018,384,384,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2019,422,422,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",980,"South Coast Winter",2020,632,632,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1976,2468,859,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1977,1796,625,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1978,2029,706,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1979,859,299,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1980,601,209,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1981,1747,608,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1982,1673,1445,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1983,4132,3569,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1984,2700,2332,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1985,2317,2002,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1986,2128,1839,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1987,4784,4133,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1988,3679,3178,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1989,1815,1568,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1990,2212,1911,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1991,597,516,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1992,1213,1048,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1993,538,465,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1994,324,280,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1995,683,590,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1996,300,259,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1997,178,62,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1998,59,51,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",1999,481,481,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2000,264,264,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2001,627,627,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2002,476,476,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2003,307,307,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2004,229,229,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2005,294,294,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2006,579,579,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2007,299,258,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2008,354,354,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2009,357,357,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2010,290,290,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2011,478,478,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2012,463,463,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2013,655,655,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2014,354,354,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2015,588,588,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2016,461,461,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2017,343,343,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2018,107,93,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2019,294,294,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2020,203,176,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2021,108,93,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2022,136,117,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2023,222,192,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2024,419,216,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2025,152,78,NA
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",981,"East Vancouver Island Winter",2026,354,183,NA
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1975,399,268,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1976,303,203,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1977,441,296,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1978,261,175,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1979,437,293,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1980,861,578,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1981,970,651,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1982,1116,749,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1983,951,638,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1984,1682,1129,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1985,1118,1118,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1986,1122,753,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1987,1190,1190,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1988,908,609,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1989,642,431,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1990,686,686,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1991,624,624,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1992,893,893,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1993,664,664,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1994,521,521,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1995,607,407,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1996,1282,860,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1997,784,526,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1998,1156,1156,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",1999,805,805,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2000,1137,1137,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2001,921,921,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2002,896,896,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2003,543,543,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2004,302,302,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2005,248,248,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2006,740,740,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2007,476,178,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2008,381,268,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2009,487,342,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2010,974,364,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2011,1247,876,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2012,1146,805,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2013,727,511,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2014,788,554,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2015,453,318,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2016,857,602,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2017,623,438,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2018,371,371,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2019,158,158,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2020,336,336,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2021,199,199,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2022,593,593,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2023,272,272,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2024,995,699,"McCulloch_20260804"
+"West Vancouver Island","Steelhead","SH",984,"West Vancouver Island Summer",2025,542,542,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1976,144,144,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1977,127,127,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1978,40,40,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1979,180,180,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1980,103,103,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1981,201,201,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1982,170,170,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1983,193,193,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1984,216,216,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1985,417,417,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1986,301,301,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1987,406,406,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1988,324,324,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1989,392,392,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1990,277,277,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1991,337,337,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1992,266,266,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1993,202,202,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1994,230,230,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1995,149,149,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1996,100,100,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1997,187,187,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1998,164,164,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",1999,44,44,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2000,104,104,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2001,119,119,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2002,129,129,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2003,73,73,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2004,67,67,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2005,63,63,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2006,139,139,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2007,103,103,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2008,194,194,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2009,253,253,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2010,199,199,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2011,242,242,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2012,269,269,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2013,75,75,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2014,231,231,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2015,122,122,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2016,214,214,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2017,141,141,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2018,64,64,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2019,126,126,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2020,78,78,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2021,67,67,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2022,37,37,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2023,132,132,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2024,88,88,"McCulloch_20260804"
+"East Vancouver Island & Mainland Inlets","Steelhead","SH",985,"East Vancouver Island Summer",2025,55,55,"McCulloch_20260804"
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1987,NA,34,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1988,NA,34,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1989,NA,38,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1990,NA,43,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1991,NA,138,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1992,NA,22,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1993,NA,16,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1994,NA,107,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1995,NA,61,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1996,NA,68,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1997,NA,103,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1998,NA,119,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",1999,NA,119,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2000,NA,160,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2001,NA,125,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2002,NA,87,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2003,NA,93,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2004,NA,63,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2005,NA,79,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2006,NA,47,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2007,NA,57,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2009,NA,52,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2010,NA,176,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2011,NA,93,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2012,NA,24,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2013,NA,11,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2014,NA,150,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2015,NA,47,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2016,NA,13,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2017,NA,10,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2018,NA,12,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2019,NA,23,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2020,NA,19,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2021,NA,16,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2022,NA,39,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2023,NA,9,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2024,NA,21,NA
+"Northern Transboundary","Steelhead","SH",1081,"Taku Summer",2025,NA,17,NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2006,233,297,NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2007,121,121,NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2008,116,175,NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2009,434,454,NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2010,377,454,NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2011,174,176,NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2012,130,130,NA
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2013,24,24,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2014,39,39,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2015,91,91,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2016,30,30,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2017,20,20,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2018,9,9,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2019,57,57,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2020,29,29,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2021,10,10,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2022,10,10,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2023,14,14,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2024,11,11,"OBMEP_20250228"
+"Columbia","Steelhead","SH",1380,"Mid Columbia Summer",2025,1,1,"OBMEP_20260228"

@@ -225,7 +225,7 @@ dat2_updated <- dat2_updated %>%
 # TSITIKA RIVER
 #---------
 # Import raw data 
-dat_tsitika <- read_xls("data/Mcculloch2026/Tsitika SR 1976-2025.xls", sheet = "template", range = "B1:C42") %>%
+dat_tsitika <- read_xls("data/Mcculloch2026/Tsitika SR 1976-2025.xls", sheet = "template", range = "B1:C52") %>%
 	filter(!is.na(`# Steelhead`))
 
 # Format new data for dataset 2
